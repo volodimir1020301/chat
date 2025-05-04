@@ -1,0 +1,3 @@
+from customtkinter*
+
+window=
